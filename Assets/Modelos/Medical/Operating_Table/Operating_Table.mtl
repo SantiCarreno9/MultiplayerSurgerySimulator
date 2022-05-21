@@ -1,0 +1,53 @@
+# File created by Digimation Material Library software, (c) Digimation, Inc., 2004
+# Creation date: 2004-06-06 16:49:48Z
+
+newmtl ltgrey
+Ka 0.5 0.5 0.5
+Kd 0.3837 0.3837 0.3837
+Ks 0.5 0.5 0.5
+illum 2
+Ns 65.89
+
+newmtl chrome
+Ka 0.5143 0.5143 0.5143
+Kd 0.75 0.75 0.75
+Ks 0.9 0.9 0.9
+illum 3
+Ns 200
+sharpness 200
+
+newmtl white
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 60
+
+newmtl dkgrey
+Ka 0.049 0.049 0.049
+Kd 0.049 0.049 0.049
+Ks 0.3 0.3 0.3
+illum 2
+Ns 60
+
+newmtl blutan
+Ka 0.0656 0.1592 0.1155
+Kd 0.0776 0.2571 0.1758
+Ks 0.1904 0.2898 0.2434
+illum 2
+Ns 25
+
+newmtl dkdkgrey
+Ka 0 0 0
+Kd 0.0122 0.0122 0.0122
+Ks 0.3 0.3 0.3
+illum 2
+Ns 60
+
+newmtl green
+Ka 0 0.0653 0
+Kd 0 0.2 0
+Ks 0 0.2776 0
+illum 2
+Ns 60
+
